@@ -1,6 +1,7 @@
 FROM ubuntu:jammy
 
 RUN apt-get update && apt-get install -y ca-certificates curl gnupg libssl-dev pkg-config tar wget vim less nodejs npm
+RUN mkdir /root/worksop/
 WORKDIR /root/
 ADD .bashrc /root/.bashrc
 ENV DEBIAN_FRONTEND=noninteractive
