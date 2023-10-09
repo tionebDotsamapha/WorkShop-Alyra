@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  ws_alyra:
+    build: .
+    volumes:
+      - "./data/workshop/:/root/worksop/"
+      - "./.bash_history:/root/.bash_history"
+    restart: always
+    tty: true
+    container_name: ws_alyra
