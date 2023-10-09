@@ -8,3 +8,5 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN curl --proto '=https' --tlsv1.2 https://sh.rustup.rs > rustup.sh && sh rustup.sh -y
 ENV PATH="/root/.cargo/bin:${PATH}"
 RUN rustup component add rust-src && cargo install --force --locked cargo-contract
+RUN cargo contract new ws_alyra
+WORKDIR /root/worksop/ws_alyra
