@@ -68,4 +68,7 @@ cargo test -- --nocapture
 *10 MINUTES*
 
 - Pour compiler et obtenit le smart-comtract à inscrire onChain, lancez :
+```
+cargo contract build
+```
 *2 MINUTES*
