@@ -35,7 +35,7 @@ Vous devriez obtenir ceci :
 
 Si ce n'est pas le cas et afin d'éviter des conflits de version, votre serviteur vous à concocté un joli tuto disponoble sur le discord PhalaTeamFR:
 https://discord.com/channels/949641126946693141/1035295622057689148/1035296203333697557
-## Installation de environnement de develloppement.
+## Installation de l'environnement de develloppement.
 *18 MINUTES*
 
 ### Installer git, Cloner l'installation minimal et lancer la construction du container.
