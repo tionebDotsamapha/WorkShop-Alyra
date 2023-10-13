@@ -1,0 +1,33 @@
+[package]
+name = "ws_alyra"
+version = "0.1.0"
+authors = ["tioneb X:@tioneb442"]
+edition = "2021"
+
+[dependencies]
+ink = { version = "4.2.0", default-features = false }
+ink_prelude = { version = "3.4", default-features = false}
+pink = { package = "pink-extension", version = "0.4.5", default-features = false }
+pink-json = { package = "pink-json", version = "0.4.0", default-features = false }
+scale = { package = "parity-scale-codec", version = "3", default-features = false, features = ["derive"] }
+scale-info = { version = "2.6", default-features = false, features = ["derive"], optional = true }
+serde = { version = "1.0.152", default-features = false, features = ["derive", "alloc"]}
+[dev-dependencies]
+ink_e2e = "4.2.0"
+pink-extension-runtime = "0.4"
+
+[lib]
+path = "lib.rs"
+
+[features]
+default = ["std"]
+std = [
+    "ink/std",
+    "scale/std",
+    "scale-info/std",
+    "pink/std",
+    "pink-json/std",
+    "ink_prelude/std",
+]
+ink-as-dependency = []
+e2e-tests = []
