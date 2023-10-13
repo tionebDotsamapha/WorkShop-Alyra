@@ -13,8 +13,13 @@ Basé sur une install Docker, ce workshop est reproductible sur Microsoft ou la 
 
 Il existe une communauté PhalaNetwork FR maintenue par des ambassadeurs officiels. 
 Nous sommes plusieurs à pouvoir vous aider au lancement de vos projets sur le PhatContract.
-Il vous suffit de rejoindre le discord : 
-👉 https://linktr.ee/phalafr 
+Il vous suffit de rejoindre le discord :
+
+👉 https://linktr.ee/phalafr, 
+👉 de pinguer @tioneb pour demander un call,
+OU
+👉 taguer les ambassadeurs de la team phalafr @phamb
+
 
 ## prérequis
 
