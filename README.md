@@ -77,3 +77,5 @@ cargo test -- --nocapture
 cargo contract build
 ```
 *2 MINUTES*
+
+La suite dans le dossier : 1_Price_Oracle....
