@@ -15,10 +15,14 @@ Il existe une communauté PhalaNetwork FR maintenue par des ambassadeurs officie
 Nous sommes plusieurs à pouvoir vous aider au lancement de vos projets sur le PhatContract.
 Il vous suffit de rejoindre le discord :
 
-👉 https://linktr.ee/phalafr, 
+👉 https://linktr.ee/phalafr,
+ 
 👉 de pinguer @tioneb pour demander un call,
+
 OU
+
 👉 taguer les ambassadeurs de la team phalafr @phamb
+
 
 
 ## prérequis
