@@ -2,7 +2,7 @@
 
 Le 18 oct 2023 je serais invité chez Alyra pour présenter PhalaNetwork aux devs.
 
-Mon but sera de démontrer combien Phala est un putain de projet a même de changer le monde pour un Web3 respectueux et respectable.
+Mon but sera de démontrer combien Phala est une bête de projet BC a même de changer le monde pour un Web3 respectueux et respectable.
 
 <p align="center">
   <img  width="460" height="300" src="https://github.com/tionebDotsamapha/WorkShop-Alyra/assets/16654460/3d3505b9-7c0f-45ad-9d82-746335ef3413">
