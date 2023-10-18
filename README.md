@@ -46,7 +46,7 @@ https://discord.com/channels/949641126946693141/1035295622057689148/103529620333
 
 ``` 
 sudo apt install git -y && \
-git clone https://github.com/tionebDotsamapha/WorkShop-Alyra.git && \
+git clone https://github.com/tionebDotsamapha/WorkShop-Alyra-1_basicInstall.git && \
 cd WorkShop-Alyra/ && \
 sudo docker-compose build && \
 sudo docker-compose up -d
